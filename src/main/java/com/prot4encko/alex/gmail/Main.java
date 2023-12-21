@@ -4,6 +4,6 @@ package com.prot4encko.alex.gmail;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args)  {
-        System.out.print("FIRSTSTEP");
+        System.out.print("ONESTEP");
     }
     }
